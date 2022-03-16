@@ -1,9 +1,9 @@
 console.log('work')
 
 
-// let density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
+let density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
 // let density = '       .:-i|=+%O#@';
-let density = '@#O%+=|i-:.       ';
+// let density = '@#O%+=|i-:.       ';
 
 
 
